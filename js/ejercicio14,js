@@ -1,0 +1,4 @@
+let texto = "   Hola mundo   ";
+
+console.log(texto);
+console.log(texto.trim());
